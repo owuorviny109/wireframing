@@ -3,9 +3,9 @@
 
 ## 0. Introduction to Wireframing
 
-Wireframing is a strategic design methodology used in the early stages of the product development lifecycle. It involves constructing low-detail visual schematics that establish the layout, structure, and functionality of an interface before high-fidelity visual design and engineering implementation. Wireframes serve as blueprints that translate user needs and product requirements into structured, navigable designs.
+Wireframing is a strategic design methodology used in the early stages of the product development lifecycle. It involves constructing low-detail visual schematics that establish the layout, structure, and functionality of an interface before high fidelity visual design and engineering implementation. Wireframes serve as blueprints that translate user needs and product requirements into structured, navigable designs.
 
-This approach supports iterative design thinking by emphasizing usability, functionality, and interaction logic over visual aesthetics. Wireframes ensure that stakeholders—from designers to developers—share a common understanding of the product vision, thereby minimizing scope creep, rework, and communication breakdowns.
+This approach supports iterative design thinking by emphasizing usability, functionality, and interaction logic over visual aesthetics. Wireframes ensure that stakeholders from designers to developers share a common understanding of the product vision, thereby minimizing scope creep, rework, and communication breakdowns.
 
 Wireframing is essential in:
 
